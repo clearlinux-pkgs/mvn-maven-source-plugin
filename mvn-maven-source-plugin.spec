@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-source-plugin
 Version  : 3.0.1
-Release  : 4
+Release  : 5
 URL      : https://github.com/apache/maven-source-plugin/archive/maven-source-plugin-3.0.1.tar.gz
 Source0  : https://github.com/apache/maven-source-plugin/archive/maven-source-plugin-3.0.1.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.0.1/maven-source-plugin-3.0.1.jar
